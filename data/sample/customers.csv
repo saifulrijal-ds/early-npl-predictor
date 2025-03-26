@@ -1,0 +1,1001 @@
+customer_id,age,gender,marital_status,dependents,education,employment_type,employment_years,monthly_income,existing_loans
+CUST000001,39,M,Married,0,Bachelor,Salaried,0,3164852,1
+CUST000002,33,F,Single,2,High School,Self-Employed,18,2478578,1
+CUST000003,41,M,Single,4,High School,Salaried,16,2389615,1
+CUST000004,50,F,Single,0,Bachelor,Self-Employed,0,1707793,0
+CUST000005,32,M,Widowed,2,High School,Salaried,1,2002999,1
+CUST000006,32,M,Married,3,Master,Salaried,0,1718998,0
+CUST000007,50,M,Married,3,Master,Freelancer,1,12733225,0
+CUST000008,42,M,Single,4,PhD,Salaried,8,5286192,0
+CUST000009,30,F,Married,2,High School,Business Owner,2,1625140,0
+CUST000010,40,M,Married,4,PhD,Salaried,0,19883590,0
+CUST000011,30,F,Married,2,Bachelor,Salaried,2,1370145,0
+CUST000012,30,M,Single,0,High School,Freelancer,19,1040710,0
+CUST000013,37,M,Single,1,High School,Salaried,4,1062324,1
+CUST000014,21,M,Single,2,High School,Business Owner,2,2182136,1
+CUST000015,21,F,Married,1,Bachelor,Salaried,0,4422174,2
+CUST000016,29,M,Married,2,Bachelor,Business Owner,21,5486344,1
+CUST000017,24,F,Single,2,High School,Salaried,8,13848974,0
+CUST000018,38,F,Single,0,Bachelor,Salaried,1,676980,1
+CUST000019,25,F,Single,2,High School,Self-Employed,0,3504084,1
+CUST000020,21,F,Widowed,2,Bachelor,Freelancer,0,2213329,0
+CUST000021,49,F,Single,1,High School,Freelancer,0,1517894,0
+CUST000022,32,F,Married,0,Master,Business Owner,4,3177561,2
+CUST000023,35,F,Married,0,Master,Business Owner,13,2595594,0
+CUST000024,21,F,Married,1,Bachelor,Salaried,3,10629751,2
+CUST000025,29,F,Single,3,High School,Salaried,9,4126470,0
+CUST000026,36,M,Single,1,High School,Salaried,2,2325771,0
+CUST000027,23,M,Married,2,Master,Salaried,6,12624829,0
+CUST000028,38,M,Married,1,High School,Salaried,6,793774,0
+CUST000029,28,M,Married,1,High School,Salaried,0,901513,1
+CUST000030,32,M,Married,3,High School,Salaried,2,498194,3
+CUST000031,28,F,Single,2,Bachelor,Self-Employed,5,2003507,0
+CUST000032,53,F,Widowed,0,Bachelor,Salaried,0,3660787,0
+CUST000033,34,F,Married,1,Master,Salaried,2,5269605,1
+CUST000034,24,F,Single,0,High School,Salaried,3,2540482,1
+CUST000035,43,F,Widowed,1,High School,Self-Employed,27,852207,0
+CUST000036,22,F,Married,2,Master,Self-Employed,3,8603445,0
+CUST000037,37,F,Married,0,Master,Self-Employed,8,5799048,1
+CUST000038,21,M,Married,1,High School,Salaried,2,3822682,1
+CUST000039,21,M,Married,1,Bachelor,Salaried,7,868972,0
+CUST000040,36,M,Married,3,High School,Salaried,4,2845838,0
+CUST000041,42,M,Single,4,Master,Salaried,10,2135110,2
+CUST000042,36,F,Married,0,High School,Salaried,2,1732712,1
+CUST000043,33,F,Divorced,2,Master,Salaried,4,7127851,0
+CUST000044,31,F,Single,1,Bachelor,Salaried,4,3484257,0
+CUST000045,21,M,Married,1,Bachelor,Freelancer,2,1801124,1
+CUST000046,27,F,Married,2,High School,Freelancer,0,2298382,0
+CUST000047,30,F,Married,3,Bachelor,Salaried,0,1118976,0
+CUST000048,45,F,Married,4,Bachelor,Salaried,0,7313168,0
+CUST000049,38,M,Divorced,2,High School,Salaried,10,1982017,0
+CUST000050,21,F,Single,1,Bachelor,Salaried,1,7152589,1
+CUST000051,38,M,Single,2,PhD,Freelancer,1,4522496,0
+CUST000052,31,M,Single,1,Bachelor,Salaried,6,2265932,1
+CUST000053,28,M,Divorced,2,Bachelor,Self-Employed,1,1914695,0
+CUST000054,41,M,Married,1,High School,Salaried,3,4225494,0
+CUST000055,45,F,Single,2,Bachelor,Freelancer,0,1989508,0
+CUST000056,44,M,Married,1,High School,Salaried,16,3593156,2
+CUST000057,26,M,Divorced,0,Bachelor,Self-Employed,9,2501205,1
+CUST000058,31,F,Married,3,Master,Salaried,9,1229712,0
+CUST000059,38,F,Divorced,0,Bachelor,Self-Employed,2,2192998,1
+CUST000060,44,M,Single,2,High School,Salaried,7,1002441,1
+CUST000061,30,F,Married,1,High School,Salaried,0,2343267,2
+CUST000062,33,M,Married,0,Bachelor,Freelancer,0,1420777,0
+CUST000063,23,M,Married,0,Bachelor,Freelancer,0,6250565,1
+CUST000064,23,M,Married,0,Master,Business Owner,4,4600666,0
+CUST000065,43,M,Married,3,Master,Self-Employed,3,4330302,0
+CUST000066,48,F,Married,1,Bachelor,Business Owner,3,5173833,2
+CUST000067,34,M,Single,4,High School,Salaried,0,4493128,0
+CUST000068,45,F,Married,2,High School,Salaried,2,2256342,0
+CUST000069,38,F,Widowed,1,High School,Salaried,6,1333722,0
+CUST000070,28,F,Divorced,2,High School,Self-Employed,2,661024,1
+CUST000071,38,F,Single,2,Bachelor,Salaried,6,2022338,1
+CUST000072,50,M,Single,2,Bachelor,Salaried,1,2122173,0
+CUST000073,34,F,Single,1,Bachelor,Salaried,8,3523411,2
+CUST000074,50,M,Married,1,High School,Business Owner,4,1797166,0
+CUST000075,21,F,Married,3,High School,Salaried,1,3703830,0
+CUST000076,43,F,Single,3,High School,Salaried,1,1489925,2
+CUST000077,35,M,Married,3,High School,Salaried,4,2198742,0
+CUST000078,32,M,Married,1,Master,Salaried,8,11231763,0
+CUST000079,35,M,Married,2,High School,Salaried,2,2906913,0
+CUST000080,21,F,Married,1,Bachelor,Self-Employed,1,3134479,1
+CUST000081,32,F,Married,1,High School,Self-Employed,10,1501482,0
+CUST000082,38,M,Married,1,Master,Self-Employed,5,3147763,2
+CUST000083,49,M,Single,2,Bachelor,Salaried,2,1802293,1
+CUST000084,29,M,Married,0,High School,Business Owner,3,1566916,0
+CUST000085,26,M,Married,1,Bachelor,Salaried,1,5548100,1
+CUST000086,29,F,Divorced,3,Bachelor,Salaried,4,2798735,0
+CUST000087,44,M,Married,1,PhD,Business Owner,2,2541604,0
+CUST000088,38,M,Married,0,High School,Salaried,27,7889501,1
+CUST000089,29,M,Single,0,Master,Salaried,3,6134509,2
+CUST000090,40,M,Married,3,Master,Business Owner,3,1831423,0
+CUST000091,35,F,Single,2,Master,Salaried,4,3599014,0
+CUST000092,44,M,Single,1,Bachelor,Self-Employed,12,3532867,0
+CUST000093,27,F,Married,3,Bachelor,Salaried,8,10780122,0
+CUST000094,31,M,Widowed,3,Bachelor,Self-Employed,2,1505026,0
+CUST000095,31,M,Single,1,Bachelor,Salaried,6,6473506,0
+CUST000096,21,F,Married,2,Bachelor,Salaried,4,8707022,1
+CUST000097,37,M,Married,2,Bachelor,Self-Employed,3,2105244,0
+CUST000098,37,F,Single,2,Bachelor,Salaried,1,2691853,0
+CUST000099,35,F,Married,0,Bachelor,Salaried,3,1582606,1
+CUST000100,32,M,Married,3,Master,Salaried,1,4252605,1
+CUST000101,21,F,Married,2,High School,Salaried,12,2230445,0
+CUST000102,30,F,Single,1,Master,Salaried,2,7781191,0
+CUST000103,31,F,Married,1,Bachelor,Salaried,15,7011964,1
+CUST000104,26,F,Married,0,Master,Freelancer,3,2904574,0
+CUST000105,33,F,Married,0,Bachelor,Salaried,4,824780,0
+CUST000106,39,F,Single,2,High School,Salaried,3,2254533,1
+CUST000107,53,F,Married,0,Master,Salaried,0,6022068,0
+CUST000108,36,F,Single,1,High School,Salaried,2,2724831,0
+CUST000109,37,M,Married,2,Master,Freelancer,0,3901195,0
+CUST000110,34,M,Single,0,Bachelor,Salaried,4,3567324,0
+CUST000111,21,F,Widowed,4,Bachelor,Freelancer,2,9443255,0
+CUST000112,34,M,Married,1,High School,Salaried,7,2989267,3
+CUST000113,35,F,Married,1,Bachelor,Self-Employed,1,2517160,0
+CUST000114,59,F,Single,1,High School,Salaried,0,1612322,0
+CUST000115,33,M,Married,1,High School,Business Owner,2,2031791,0
+CUST000116,38,F,Divorced,0,High School,Salaried,13,7196051,2
+CUST000117,34,F,Widowed,2,High School,Salaried,6,2012754,0
+CUST000118,23,F,Married,4,PhD,Salaried,2,6448068,0
+CUST000119,46,F,Married,1,PhD,Salaried,3,4664670,1
+CUST000120,42,M,Married,2,High School,Freelancer,0,4938703,0
+CUST000121,42,F,Divorced,2,Bachelor,Salaried,20,12889016,0
+CUST000122,25,F,Married,3,High School,Salaried,5,3136926,0
+CUST000123,49,F,Married,1,Bachelor,Self-Employed,1,3464022,0
+CUST000124,21,M,Married,1,Master,Salaried,4,5031420,0
+CUST000125,40,F,Married,1,Master,Freelancer,0,923983,1
+CUST000126,56,M,Single,2,Bachelor,Self-Employed,16,5507413,0
+CUST000127,25,M,Married,3,Bachelor,Salaried,0,3590911,0
+CUST000128,29,F,Married,0,High School,Business Owner,5,3088402,0
+CUST000129,35,F,Married,1,PhD,Salaried,1,3973362,0
+CUST000130,29,M,Single,3,High School,Salaried,6,1748388,0
+CUST000131,21,F,Married,3,Bachelor,Salaried,7,2451676,2
+CUST000132,35,M,Married,4,Bachelor,Salaried,5,6683391,0
+CUST000133,24,M,Married,2,Bachelor,Self-Employed,4,2507678,1
+CUST000134,39,F,Single,1,High School,Freelancer,11,9832337,0
+CUST000135,25,F,Married,2,Master,Salaried,0,6629691,0
+CUST000136,50,M,Married,2,High School,Salaried,2,936914,0
+CUST000137,27,M,Married,0,Bachelor,Freelancer,1,2987709,0
+CUST000138,31,M,Married,2,High School,Salaried,22,1450113,0
+CUST000139,43,M,Married,2,High School,Salaried,2,492503,0
+CUST000140,22,F,Married,0,Bachelor,Salaried,6,10015351,1
+CUST000141,37,F,Single,2,Bachelor,Freelancer,5,5347821,0
+CUST000142,48,F,Married,2,High School,Salaried,1,3323636,0
+CUST000143,21,F,Married,4,High School,Self-Employed,1,2569205,0
+CUST000144,36,F,Single,0,Bachelor,Business Owner,1,1242439,0
+CUST000145,37,M,Single,1,Bachelor,Salaried,2,2330207,0
+CUST000146,42,F,Married,2,Master,Salaried,1,8839240,0
+CUST000147,22,F,Married,1,High School,Business Owner,0,1096321,0
+CUST000148,21,F,Married,2,High School,Salaried,10,388903,1
+CUST000149,40,F,Married,2,High School,Self-Employed,16,1951971,1
+CUST000150,37,F,Married,0,High School,Freelancer,2,2072144,0
+CUST000151,37,M,Married,2,Bachelor,Self-Employed,2,3594424,0
+CUST000152,38,M,Single,2,Bachelor,Self-Employed,0,5443664,1
+CUST000153,28,M,Married,1,High School,Business Owner,5,3575619,0
+CUST000154,37,F,Married,3,High School,Business Owner,8,2742728,0
+CUST000155,37,M,Single,3,High School,Salaried,0,5284015,0
+CUST000156,27,M,Single,2,Master,Salaried,0,1693293,0
+CUST000157,53,F,Married,2,PhD,Salaried,7,9307716,0
+CUST000158,39,F,Married,1,High School,Self-Employed,4,3548025,0
+CUST000159,23,F,Widowed,3,High School,Salaried,0,960905,0
+CUST000160,41,M,Divorced,2,Master,Self-Employed,4,1712484,0
+CUST000161,25,M,Married,2,Master,Salaried,1,2908957,1
+CUST000162,42,F,Married,3,Bachelor,Self-Employed,2,2057332,0
+CUST000163,46,F,Married,1,High School,Salaried,7,3877567,0
+CUST000164,26,M,Married,3,High School,Self-Employed,8,1488303,0
+CUST000165,44,M,Single,0,Bachelor,Salaried,2,1795072,1
+CUST000166,39,F,Married,1,High School,Salaried,14,1491333,1
+CUST000167,43,F,Married,1,High School,Salaried,2,5007100,1
+CUST000168,53,M,Married,4,Bachelor,Self-Employed,7,3299001,0
+CUST000169,32,F,Married,3,High School,Salaried,3,2018467,1
+CUST000170,27,M,Married,2,Bachelor,Salaried,11,3026738,1
+CUST000171,26,M,Single,2,High School,Freelancer,11,5653397,0
+CUST000172,26,M,Married,2,High School,Self-Employed,0,1354448,0
+CUST000173,34,M,Married,3,Bachelor,Freelancer,13,8209936,0
+CUST000174,38,F,Single,1,High School,Salaried,8,2651595,1
+CUST000175,37,F,Single,1,PhD,Salaried,7,5843576,0
+CUST000176,43,M,Married,0,Bachelor,Business Owner,1,18823757,0
+CUST000177,35,M,Single,2,High School,Salaried,8,1092934,2
+CUST000178,49,M,Married,2,Bachelor,Self-Employed,9,2552081,1
+CUST000179,32,M,Single,1,High School,Salaried,1,965713,2
+CUST000180,62,M,Divorced,0,Master,Salaried,15,9551305,2
+CUST000181,41,F,Single,3,High School,Salaried,0,7465159,0
+CUST000182,26,F,Married,0,Bachelor,Salaried,0,10521653,1
+CUST000183,24,F,Divorced,2,High School,Salaried,3,5390178,0
+CUST000184,39,F,Married,4,Bachelor,Salaried,4,2846684,1
+CUST000185,32,M,Single,1,Master,Freelancer,5,3797283,0
+CUST000186,42,M,Married,1,Master,Salaried,0,1522167,3
+CUST000187,39,M,Married,2,High School,Self-Employed,16,9515536,1
+CUST000188,34,M,Married,3,High School,Business Owner,0,3177513,1
+CUST000189,26,M,Single,2,Master,Salaried,0,3474966,0
+CUST000190,21,F,Single,4,Master,Salaried,0,12423555,0
+CUST000191,30,M,Married,0,High School,Self-Employed,4,1158213,1
+CUST000192,43,F,Married,2,Bachelor,Self-Employed,13,4345430,0
+CUST000193,37,F,Married,2,High School,Self-Employed,5,2027845,1
+CUST000194,22,F,Married,3,Master,Self-Employed,8,7667790,0
+CUST000195,36,F,Married,0,High School,Freelancer,0,2188711,1
+CUST000196,38,M,Single,3,High School,Salaried,3,828751,0
+CUST000197,26,F,Married,2,Bachelor,Salaried,3,3446616,1
+CUST000198,36,F,Single,1,High School,Self-Employed,3,4768440,1
+CUST000199,35,F,Married,0,Bachelor,Salaried,0,3202840,0
+CUST000200,23,M,Married,3,Bachelor,Business Owner,5,5624151,0
+CUST000201,38,M,Widowed,0,High School,Salaried,3,1100696,0
+CUST000202,40,M,Single,1,High School,Salaried,7,2246631,0
+CUST000203,45,F,Single,1,Bachelor,Business Owner,3,2111359,0
+CUST000204,45,F,Single,3,High School,Salaried,0,3860130,1
+CUST000205,21,M,Single,2,Bachelor,Salaried,5,3341880,0
+CUST000206,25,F,Single,2,Master,Salaried,0,7948681,0
+CUST000207,40,M,Divorced,1,Bachelor,Business Owner,10,6999836,0
+CUST000208,40,M,Single,2,High School,Salaried,4,3713398,0
+CUST000209,40,F,Single,2,High School,Business Owner,0,2770415,0
+CUST000210,65,F,Married,3,High School,Salaried,16,1137764,2
+CUST000211,40,F,Married,3,High School,Self-Employed,3,2283853,1
+CUST000212,46,F,Married,0,Bachelor,Business Owner,0,2250891,0
+CUST000213,44,M,Single,2,Bachelor,Salaried,4,2569328,0
+CUST000214,41,M,Married,0,High School,Salaried,1,1760574,1
+CUST000215,31,M,Single,2,High School,Salaried,8,1152422,0
+CUST000216,42,M,Single,1,High School,Self-Employed,8,581396,0
+CUST000217,27,M,Divorced,1,Bachelor,Salaried,19,2047847,0
+CUST000218,32,F,Single,1,High School,Self-Employed,3,2620014,0
+CUST000219,30,M,Married,2,Bachelor,Salaried,3,1272222,2
+CUST000220,35,M,Married,1,High School,Salaried,7,2313570,1
+CUST000221,58,M,Married,2,Master,Salaried,0,18543928,0
+CUST000222,21,F,Divorced,1,Master,Salaried,3,10035151,0
+CUST000223,41,F,Single,0,High School,Salaried,3,7230393,1
+CUST000224,21,F,Married,2,High School,Business Owner,0,3008988,1
+CUST000225,30,F,Widowed,1,Bachelor,Self-Employed,2,7401971,1
+CUST000226,45,M,Married,1,High School,Salaried,9,1378559,1
+CUST000227,35,M,Divorced,2,Bachelor,Freelancer,9,2082254,0
+CUST000228,24,F,Single,1,Master,Self-Employed,0,720763,1
+CUST000229,27,F,Married,0,Bachelor,Freelancer,0,7499161,1
+CUST000230,41,M,Single,1,Master,Salaried,1,14413731,0
+CUST000231,27,M,Married,3,High School,Salaried,10,1553624,1
+CUST000232,37,F,Widowed,2,High School,Salaried,0,1915633,0
+CUST000233,35,F,Single,2,Bachelor,Self-Employed,6,1928583,0
+CUST000234,28,F,Married,2,High School,Salaried,0,2991191,0
+CUST000235,56,F,Single,0,Bachelor,Salaried,4,7184617,0
+CUST000236,41,M,Married,1,High School,Salaried,2,675619,0
+CUST000237,21,M,Married,2,High School,Salaried,7,3047804,0
+CUST000238,36,M,Widowed,0,PhD,Self-Employed,1,5386880,0
+CUST000239,28,F,Married,1,High School,Salaried,5,2477352,0
+CUST000240,43,F,Married,1,PhD,Salaried,1,9015382,0
+CUST000241,27,M,Single,1,PhD,Self-Employed,6,5731026,0
+CUST000242,33,M,Single,4,Bachelor,Freelancer,10,3040368,1
+CUST000243,40,M,Single,0,Bachelor,Self-Employed,0,2814478,0
+CUST000244,43,M,Single,2,Bachelor,Freelancer,10,6447618,0
+CUST000245,22,F,Divorced,0,Master,Self-Employed,4,6573763,1
+CUST000246,31,M,Married,4,High School,Salaried,0,2670385,1
+CUST000247,30,M,Married,0,Bachelor,Salaried,2,1342888,1
+CUST000248,28,M,Single,1,Bachelor,Self-Employed,0,2507994,0
+CUST000249,52,M,Divorced,2,Bachelor,Self-Employed,6,6132226,0
+CUST000250,39,M,Married,2,Bachelor,Self-Employed,7,3356427,1
+CUST000251,22,M,Single,1,High School,Salaried,0,3630921,0
+CUST000252,44,M,Married,1,Bachelor,Salaried,3,11257647,0
+CUST000253,56,F,Married,1,Master,Salaried,8,10144977,0
+CUST000254,45,F,Single,1,High School,Salaried,13,2442507,1
+CUST000255,21,F,Married,1,Master,Salaried,3,3428977,0
+CUST000256,30,F,Married,1,Bachelor,Business Owner,15,547170,2
+CUST000257,47,M,Single,1,Master,Salaried,3,4358313,1
+CUST000258,27,F,Divorced,1,Bachelor,Salaried,2,2602000,0
+CUST000259,39,F,Married,2,Bachelor,Salaried,9,4296263,1
+CUST000260,42,M,Married,4,High School,Self-Employed,3,2054598,1
+CUST000261,25,M,Married,2,Master,Salaried,3,3918405,1
+CUST000262,34,F,Married,0,High School,Salaried,3,658516,0
+CUST000263,21,F,Married,0,Master,Salaried,9,2539524,1
+CUST000264,24,M,Married,4,PhD,Salaried,8,9127504,0
+CUST000265,32,F,Single,1,High School,Freelancer,2,7606094,2
+CUST000266,22,M,Married,0,High School,Freelancer,2,2137307,0
+CUST000267,51,M,Married,2,Bachelor,Salaried,3,4112196,0
+CUST000268,21,M,Married,2,High School,Salaried,4,4457326,1
+CUST000269,30,M,Single,2,Master,Self-Employed,1,2779659,1
+CUST000270,36,F,Married,1,High School,Salaried,7,2958209,0
+CUST000271,49,M,Single,0,High School,Salaried,3,1362704,0
+CUST000272,21,M,Single,4,PhD,Salaried,2,11977306,0
+CUST000273,46,F,Single,1,Bachelor,Freelancer,0,3634500,2
+CUST000274,35,M,Married,2,Master,Salaried,1,6042819,1
+CUST000275,25,F,Married,2,High School,Salaried,14,1323123,1
+CUST000276,39,F,Married,2,Bachelor,Self-Employed,1,5362402,0
+CUST000277,36,F,Single,1,Bachelor,Salaried,0,14066393,0
+CUST000278,28,M,Divorced,1,Bachelor,Salaried,3,1614380,1
+CUST000279,35,F,Divorced,2,Bachelor,Freelancer,1,2577082,1
+CUST000280,31,F,Divorced,3,Bachelor,Salaried,0,3844388,0
+CUST000281,36,M,Single,3,Bachelor,Self-Employed,1,5668779,1
+CUST000282,41,F,Married,0,High School,Salaried,3,1546713,0
+CUST000283,50,F,Widowed,0,Bachelor,Salaried,4,449944,0
+CUST000284,22,F,Married,3,High School,Salaried,2,5925393,0
+CUST000285,56,F,Single,2,Bachelor,Salaried,2,5566929,0
+CUST000286,21,F,Single,3,High School,Salaried,16,675535,0
+CUST000287,33,M,Married,1,Bachelor,Business Owner,2,2136547,0
+CUST000288,40,F,Divorced,2,Bachelor,Salaried,1,9798380,0
+CUST000289,37,F,Married,2,High School,Salaried,1,6304552,1
+CUST000290,28,M,Married,2,High School,Salaried,3,4414358,0
+CUST000291,32,M,Single,1,High School,Self-Employed,7,2022906,0
+CUST000292,30,M,Married,0,Bachelor,Salaried,1,3464542,0
+CUST000293,29,F,Married,2,Master,Salaried,6,4474105,0
+CUST000294,43,M,Married,1,High School,Salaried,0,5040888,1
+CUST000295,38,F,Married,1,Bachelor,Salaried,2,1770743,0
+CUST000296,28,F,Widowed,4,High School,Salaried,7,1301808,1
+CUST000297,43,M,Single,1,Bachelor,Business Owner,2,6630509,1
+CUST000298,38,M,Married,3,Master,Salaried,4,4753596,0
+CUST000299,43,F,Single,0,High School,Salaried,1,6005895,0
+CUST000300,41,M,Married,2,Bachelor,Salaried,6,2043023,0
+CUST000301,26,F,Married,4,High School,Business Owner,0,2202228,0
+CUST000302,29,M,Married,0,High School,Salaried,9,1199764,1
+CUST000303,42,M,Married,0,High School,Salaried,1,2300135,0
+CUST000304,41,M,Married,1,High School,Salaried,10,812882,0
+CUST000305,34,F,Divorced,0,Bachelor,Salaried,2,2323665,0
+CUST000306,36,M,Married,2,Bachelor,Salaried,6,1196154,0
+CUST000307,47,F,Single,3,Bachelor,Salaried,1,5313420,0
+CUST000308,29,F,Married,1,High School,Salaried,11,3778877,0
+CUST000309,40,F,Married,1,High School,Salaried,0,681560,0
+CUST000310,32,F,Married,1,Bachelor,Salaried,0,8316233,0
+CUST000311,32,M,Divorced,2,PhD,Salaried,3,37555776,1
+CUST000312,45,F,Divorced,0,High School,Salaried,0,2363204,1
+CUST000313,43,F,Single,2,Master,Self-Employed,1,3130443,0
+CUST000314,43,M,Widowed,2,Bachelor,Freelancer,14,23606470,0
+CUST000315,48,F,Single,2,Bachelor,Freelancer,18,1298502,2
+CUST000316,35,M,Single,1,Bachelor,Business Owner,2,3315352,0
+CUST000317,41,F,Single,2,High School,Self-Employed,12,2594904,0
+CUST000318,31,M,Divorced,0,High School,Self-Employed,3,5867436,0
+CUST000319,38,F,Married,0,Bachelor,Salaried,1,4205136,1
+CUST000320,33,M,Single,3,High School,Self-Employed,6,1614088,0
+CUST000321,35,F,Married,2,Master,Salaried,5,2519662,2
+CUST000322,40,F,Married,0,Bachelor,Salaried,22,2573364,1
+CUST000323,26,M,Single,1,High School,Self-Employed,1,1130845,1
+CUST000324,55,M,Divorced,1,Bachelor,Salaried,5,3380309,1
+CUST000325,24,M,Married,1,High School,Salaried,0,1541686,0
+CUST000326,22,M,Married,1,Bachelor,Freelancer,0,1148736,0
+CUST000327,46,F,Widowed,0,Bachelor,Salaried,0,7870263,1
+CUST000328,42,F,Married,1,Master,Salaried,30,3461089,2
+CUST000329,41,M,Widowed,2,Bachelor,Freelancer,8,1345537,0
+CUST000330,41,F,Married,2,Bachelor,Self-Employed,7,2905797,2
+CUST000331,34,M,Married,2,Bachelor,Salaried,3,3429277,0
+CUST000332,26,M,Single,0,Master,Salaried,1,1444015,0
+CUST000333,35,F,Divorced,4,High School,Salaried,0,2886277,0
+CUST000334,28,F,Married,3,High School,Business Owner,1,1099443,0
+CUST000335,44,F,Single,3,High School,Salaried,2,7580162,0
+CUST000336,33,F,Single,3,High School,Salaried,7,3302192,0
+CUST000337,26,F,Married,3,Bachelor,Salaried,3,2470843,0
+CUST000338,31,F,Married,2,Bachelor,Salaried,0,1940357,0
+CUST000339,39,F,Married,1,Bachelor,Freelancer,0,3037430,0
+CUST000340,29,M,Divorced,2,High School,Salaried,0,3514045,3
+CUST000341,26,M,Single,2,Bachelor,Self-Employed,2,3211196,0
+CUST000342,37,M,Married,2,High School,Salaried,13,1965611,0
+CUST000343,37,M,Single,2,Bachelor,Self-Employed,5,3405353,0
+CUST000344,29,M,Divorced,0,Bachelor,Freelancer,8,2142103,0
+CUST000345,30,F,Married,1,High School,Salaried,3,1799610,1
+CUST000346,37,M,Married,3,High School,Salaried,2,531399,0
+CUST000347,21,M,Married,2,High School,Salaried,0,4524118,1
+CUST000348,21,M,Married,2,Master,Self-Employed,10,6044283,0
+CUST000349,27,M,Married,1,Master,Salaried,7,2853468,0
+CUST000350,32,M,Married,1,Bachelor,Business Owner,0,12349356,0
+CUST000351,38,M,Married,3,High School,Self-Employed,3,2432028,0
+CUST000352,49,M,Married,2,Bachelor,Business Owner,3,1582789,0
+CUST000353,43,F,Married,2,Bachelor,Self-Employed,4,5954847,0
+CUST000354,33,F,Married,1,Bachelor,Salaried,14,4319428,0
+CUST000355,34,M,Married,2,High School,Salaried,4,3016268,0
+CUST000356,24,F,Single,1,High School,Salaried,3,1698567,3
+CUST000357,34,F,Married,2,Bachelor,Freelancer,0,4480956,0
+CUST000358,32,F,Married,1,High School,Self-Employed,0,1905193,0
+CUST000359,38,F,Single,1,High School,Self-Employed,1,3376951,0
+CUST000360,26,M,Single,2,High School,Salaried,0,603115,0
+CUST000361,40,F,Single,3,Bachelor,Salaried,6,2412776,0
+CUST000362,50,F,Married,0,Master,Self-Employed,6,16370208,1
+CUST000363,33,F,Married,3,PhD,Salaried,0,3821676,2
+CUST000364,39,M,Married,1,Bachelor,Salaried,9,2142134,0
+CUST000365,41,M,Married,1,Bachelor,Self-Employed,0,2389099,0
+CUST000366,30,M,Married,0,High School,Salaried,1,977701,0
+CUST000367,37,M,Married,1,Bachelor,Salaried,1,696764,1
+CUST000368,35,M,Married,2,High School,Salaried,2,1947222,0
+CUST000369,35,M,Married,0,Bachelor,Salaried,1,3595169,0
+CUST000370,27,M,Widowed,1,High School,Freelancer,3,2205735,0
+CUST000371,35,F,Married,3,High School,Salaried,2,2067622,1
+CUST000372,39,F,Single,0,High School,Salaried,21,2358304,0
+CUST000373,49,F,Married,2,High School,Salaried,0,4682365,0
+CUST000374,44,M,Married,1,High School,Self-Employed,0,2002711,1
+CUST000375,56,M,Married,2,High School,Salaried,0,1531054,0
+CUST000376,27,M,Single,1,PhD,Salaried,4,5370112,1
+CUST000377,43,M,Single,0,Bachelor,Salaried,0,4903906,0
+CUST000378,36,M,Divorced,0,Bachelor,Salaried,9,8783792,1
+CUST000379,56,F,Single,0,Master,Salaried,3,3158994,1
+CUST000380,26,F,Married,0,PhD,Business Owner,3,7006864,0
+CUST000381,26,M,Single,2,Bachelor,Business Owner,4,4142666,1
+CUST000382,29,M,Married,3,Master,Salaried,0,2447701,0
+CUST000383,21,M,Married,3,High School,Salaried,1,2321251,2
+CUST000384,29,M,Married,2,High School,Freelancer,1,820240,0
+CUST000385,27,F,Married,0,Bachelor,Salaried,4,947578,1
+CUST000386,36,M,Single,1,Bachelor,Business Owner,1,4225814,0
+CUST000387,38,M,Single,1,Bachelor,Salaried,0,2498716,2
+CUST000388,53,M,Married,1,High School,Freelancer,17,2636390,0
+CUST000389,44,M,Married,2,High School,Self-Employed,0,2259826,2
+CUST000390,29,F,Divorced,2,Bachelor,Freelancer,8,1650386,2
+CUST000391,26,M,Divorced,1,High School,Self-Employed,7,2216958,0
+CUST000392,39,M,Married,1,Bachelor,Salaried,1,1378944,1
+CUST000393,21,F,Married,3,Bachelor,Freelancer,0,8655284,3
+CUST000394,53,F,Married,2,Bachelor,Salaried,0,1265301,0
+CUST000395,46,F,Single,1,Bachelor,Salaried,5,2850344,0
+CUST000396,30,M,Divorced,3,Master,Self-Employed,5,2364021,0
+CUST000397,21,M,Married,4,Bachelor,Self-Employed,7,4873363,0
+CUST000398,48,F,Married,1,Bachelor,Freelancer,13,2592149,0
+CUST000399,33,F,Single,1,Bachelor,Salaried,5,2273732,0
+CUST000400,47,F,Married,2,High School,Self-Employed,0,4158088,0
+CUST000401,21,F,Married,3,High School,Self-Employed,1,2335943,0
+CUST000402,29,F,Divorced,3,High School,Salaried,9,3285324,0
+CUST000403,35,F,Married,0,Bachelor,Salaried,1,1644705,1
+CUST000404,35,M,Married,1,Bachelor,Salaried,0,1222768,1
+CUST000405,30,M,Widowed,2,Master,Salaried,6,5285673,0
+CUST000406,41,M,Single,2,High School,Freelancer,2,1830560,1
+CUST000407,24,F,Married,0,High School,Self-Employed,12,3547768,1
+CUST000408,33,F,Single,3,PhD,Self-Employed,5,6182362,2
+CUST000409,36,F,Married,2,High School,Freelancer,0,2641553,0
+CUST000410,40,F,Divorced,3,Bachelor,Salaried,14,1049298,0
+CUST000411,42,F,Single,3,Bachelor,Business Owner,1,12260654,2
+CUST000412,23,F,Divorced,2,Bachelor,Salaried,2,2913980,2
+CUST000413,21,M,Single,1,High School,Business Owner,2,3728944,1
+CUST000414,47,M,Divorced,2,High School,Salaried,0,1274494,1
+CUST000415,38,F,Married,0,High School,Freelancer,3,2838913,0
+CUST000416,27,M,Married,2,Bachelor,Salaried,0,1313240,0
+CUST000417,50,F,Single,0,Bachelor,Salaried,2,4485890,0
+CUST000418,36,M,Widowed,2,High School,Self-Employed,2,1783597,0
+CUST000419,46,F,Married,1,Bachelor,Salaried,7,3336501,1
+CUST000420,35,F,Married,0,Master,Self-Employed,8,7992760,0
+CUST000421,55,M,Married,0,High School,Salaried,0,965640,0
+CUST000422,52,M,Single,0,Bachelor,Self-Employed,2,2024545,2
+CUST000423,32,F,Divorced,2,Bachelor,Salaried,2,4502426,0
+CUST000424,44,F,Single,2,High School,Salaried,0,9940024,2
+CUST000425,41,M,Married,2,High School,Salaried,8,2077482,3
+CUST000426,48,M,Married,0,Bachelor,Salaried,6,4944543,0
+CUST000427,25,F,Single,0,Master,Salaried,1,4549759,0
+CUST000428,41,M,Single,0,Master,Salaried,2,19096908,0
+CUST000429,45,F,Single,0,Bachelor,Salaried,0,962168,0
+CUST000430,21,F,Married,3,Bachelor,Salaried,4,3492871,0
+CUST000431,23,F,Married,1,High School,Salaried,0,733397,0
+CUST000432,21,F,Married,1,Bachelor,Business Owner,21,565462,2
+CUST000433,32,M,Single,0,Bachelor,Salaried,7,4025756,0
+CUST000434,42,M,Single,1,High School,Salaried,2,2523035,1
+CUST000435,50,M,Married,2,Bachelor,Self-Employed,4,2678089,0
+CUST000436,35,M,Single,2,Bachelor,Salaried,12,3034824,0
+CUST000437,51,M,Divorced,1,High School,Self-Employed,4,20017844,2
+CUST000438,21,M,Divorced,0,Master,Salaried,0,4092810,0
+CUST000439,21,M,Married,1,High School,Salaried,2,3270364,0
+CUST000440,34,F,Married,1,High School,Salaried,9,1452460,1
+CUST000441,38,M,Divorced,1,High School,Self-Employed,5,2813634,1
+CUST000442,34,M,Single,4,Bachelor,Self-Employed,5,2766895,1
+CUST000443,21,F,Single,2,Bachelor,Salaried,10,2452545,0
+CUST000444,34,M,Single,2,High School,Salaried,11,8174695,0
+CUST000445,21,M,Married,1,Bachelor,Freelancer,12,7452271,2
+CUST000446,41,F,Single,1,High School,Salaried,0,2518181,2
+CUST000447,38,M,Married,2,Bachelor,Salaried,3,651512,0
+CUST000448,25,M,Widowed,2,Bachelor,Freelancer,6,2539032,1
+CUST000449,29,M,Divorced,2,Bachelor,Self-Employed,7,21684738,0
+CUST000450,24,F,Married,0,Master,Salaried,4,4172398,0
+CUST000451,34,M,Single,2,High School,Self-Employed,0,4953363,0
+CUST000452,44,M,Married,1,High School,Business Owner,7,6278770,0
+CUST000453,25,F,Married,3,Bachelor,Salaried,6,3810514,0
+CUST000454,40,M,Single,2,PhD,Salaried,0,3626838,0
+CUST000455,29,F,Single,2,High School,Salaried,3,416068,0
+CUST000456,27,F,Divorced,0,High School,Freelancer,0,3694069,1
+CUST000457,33,M,Married,2,High School,Self-Employed,2,1293672,1
+CUST000458,24,F,Married,0,Bachelor,Salaried,0,3698009,1
+CUST000459,29,F,Divorced,1,High School,Business Owner,2,954029,2
+CUST000460,23,M,Married,0,Bachelor,Salaried,3,2715084,0
+CUST000461,54,F,Married,2,PhD,Salaried,4,6694188,0
+CUST000462,35,F,Married,1,Bachelor,Salaried,5,3945220,1
+CUST000463,28,M,Married,1,High School,Salaried,9,1048581,0
+CUST000464,37,M,Married,3,Bachelor,Business Owner,1,7555887,0
+CUST000465,33,M,Married,1,High School,Salaried,0,1506799,0
+CUST000466,32,F,Married,2,Master,Business Owner,9,1518655,1
+CUST000467,41,M,Divorced,1,Bachelor,Salaried,0,3028819,0
+CUST000468,42,F,Married,0,High School,Salaried,18,2344042,1
+CUST000469,29,F,Married,2,Bachelor,Freelancer,9,3657946,0
+CUST000470,29,F,Married,0,Bachelor,Salaried,3,8482304,1
+CUST000471,32,F,Married,1,Bachelor,Salaried,19,2770354,1
+CUST000472,21,F,Married,2,High School,Salaried,0,2104505,1
+CUST000473,21,F,Single,2,Master,Business Owner,1,2265340,0
+CUST000474,48,F,Married,2,Master,Salaried,5,8708869,0
+CUST000475,51,M,Single,1,Bachelor,Salaried,2,3719189,1
+CUST000476,32,M,Married,0,PhD,Salaried,13,4872548,0
+CUST000477,40,F,Married,2,High School,Salaried,0,603229,0
+CUST000478,38,F,Married,2,Bachelor,Self-Employed,3,8985192,0
+CUST000479,65,M,Widowed,3,Bachelor,Salaried,4,1384187,2
+CUST000480,46,F,Married,3,Bachelor,Salaried,5,2161051,0
+CUST000481,33,M,Married,3,Bachelor,Salaried,1,4201033,1
+CUST000482,25,M,Married,1,High School,Salaried,2,990271,0
+CUST000483,21,M,Married,1,High School,Freelancer,9,804412,0
+CUST000484,37,F,Single,2,High School,Salaried,1,517394,1
+CUST000485,27,F,Single,1,High School,Freelancer,8,3790554,0
+CUST000486,21,M,Married,0,Bachelor,Salaried,4,2231913,0
+CUST000487,28,M,Married,3,High School,Salaried,7,17759197,1
+CUST000488,24,M,Single,3,High School,Business Owner,6,1140841,1
+CUST000489,51,M,Single,1,Bachelor,Salaried,1,1715104,0
+CUST000490,43,M,Single,0,Bachelor,Self-Employed,4,2200565,1
+CUST000491,34,F,Widowed,1,Master,Freelancer,10,5813301,1
+CUST000492,49,M,Married,3,Bachelor,Salaried,2,2352190,1
+CUST000493,35,F,Married,3,High School,Salaried,16,3512917,0
+CUST000494,26,M,Single,1,Master,Self-Employed,3,2471790,0
+CUST000495,50,F,Married,0,Bachelor,Salaried,0,1242810,2
+CUST000496,40,F,Single,3,High School,Salaried,2,649900,1
+CUST000497,24,F,Single,1,Bachelor,Salaried,15,689345,0
+CUST000498,33,F,Married,2,Master,Salaried,1,3412024,0
+CUST000499,26,F,Single,4,High School,Self-Employed,10,1853597,0
+CUST000500,21,F,Single,0,High School,Salaried,10,1470802,0
+CUST000501,44,M,Single,2,High School,Salaried,2,5464095,0
+CUST000502,54,F,Single,0,High School,Self-Employed,0,5405600,0
+CUST000503,21,M,Single,1,Bachelor,Salaried,6,2586038,1
+CUST000504,40,F,Married,3,Bachelor,Salaried,1,931224,0
+CUST000505,28,F,Married,1,High School,Self-Employed,7,1538981,1
+CUST000506,30,M,Married,4,Master,Salaried,2,3222249,0
+CUST000507,29,F,Married,2,Bachelor,Self-Employed,3,2063688,0
+CUST000508,26,M,Single,1,Bachelor,Business Owner,7,2005886,0
+CUST000509,35,M,Divorced,1,Master,Salaried,2,3103500,0
+CUST000510,26,M,Married,1,High School,Salaried,2,1745839,1
+CUST000511,37,M,Single,1,Bachelor,Salaried,2,2095119,1
+CUST000512,34,F,Married,0,Bachelor,Salaried,2,3782235,0
+CUST000513,32,F,Single,1,Master,Business Owner,3,6310485,0
+CUST000514,25,M,Married,1,Bachelor,Business Owner,8,1728126,0
+CUST000515,29,F,Married,2,High School,Salaried,2,5570919,1
+CUST000516,42,F,Divorced,2,Master,Self-Employed,3,2469240,1
+CUST000517,40,M,Married,2,High School,Freelancer,5,737384,0
+CUST000518,25,F,Married,0,Master,Freelancer,1,6401287,1
+CUST000519,35,M,Widowed,1,PhD,Salaried,1,3689352,1
+CUST000520,42,M,Single,2,High School,Salaried,13,2865429,0
+CUST000521,21,F,Single,1,Bachelor,Salaried,6,607697,0
+CUST000522,40,F,Married,0,High School,Freelancer,4,6064994,2
+CUST000523,28,F,Married,3,Bachelor,Salaried,5,5233576,1
+CUST000524,40,M,Married,2,Bachelor,Salaried,0,1143571,0
+CUST000525,27,M,Divorced,2,Bachelor,Salaried,4,1161074,0
+CUST000526,21,F,Married,0,Master,Salaried,3,15808387,0
+CUST000527,21,F,Married,2,Bachelor,Salaried,3,1950963,0
+CUST000528,35,F,Married,2,Bachelor,Freelancer,2,1823139,1
+CUST000529,37,F,Married,2,Master,Salaried,0,1003725,0
+CUST000530,25,M,Widowed,2,PhD,Salaried,1,5114562,1
+CUST000531,41,F,Married,3,High School,Salaried,15,1951133,1
+CUST000532,21,M,Single,2,PhD,Salaried,2,10788510,0
+CUST000533,34,M,Married,0,High School,Salaried,3,859383,0
+CUST000534,22,F,Single,2,Master,Salaried,0,1691733,0
+CUST000535,28,F,Single,2,High School,Salaried,0,3137694,1
+CUST000536,35,F,Single,2,High School,Salaried,6,4629854,0
+CUST000537,26,M,Married,0,Bachelor,Salaried,3,1088371,1
+CUST000538,31,F,Married,0,Bachelor,Salaried,3,6969540,1
+CUST000539,45,F,Single,3,High School,Freelancer,1,2349244,0
+CUST000540,29,M,Married,2,High School,Freelancer,6,4913950,2
+CUST000541,43,F,Married,3,Bachelor,Salaried,0,3112216,3
+CUST000542,23,M,Married,2,Master,Salaried,1,838918,0
+CUST000543,40,F,Single,2,High School,Freelancer,3,2057388,0
+CUST000544,49,M,Married,2,High School,Salaried,1,4806239,2
+CUST000545,21,F,Married,3,Bachelor,Business Owner,1,1748690,2
+CUST000546,27,F,Single,2,High School,Freelancer,5,1744100,0
+CUST000547,40,M,Single,2,Master,Salaried,5,4334737,0
+CUST000548,32,M,Married,0,Master,Salaried,8,644226,0
+CUST000549,38,F,Divorced,1,Bachelor,Freelancer,2,10532152,3
+CUST000550,28,M,Married,2,High School,Salaried,0,1217563,0
+CUST000551,35,M,Married,1,Bachelor,Salaried,1,4657618,0
+CUST000552,33,M,Married,1,Bachelor,Salaried,19,3076518,1
+CUST000553,46,M,Married,1,Master,Salaried,4,11825850,0
+CUST000554,37,F,Single,1,Bachelor,Self-Employed,6,4343709,1
+CUST000555,38,F,Married,1,Bachelor,Self-Employed,0,2773312,0
+CUST000556,30,M,Divorced,1,Bachelor,Freelancer,3,1748973,1
+CUST000557,30,M,Married,3,Bachelor,Salaried,0,5714375,0
+CUST000558,30,M,Divorced,2,PhD,Salaried,4,1761608,1
+CUST000559,38,M,Married,0,Bachelor,Salaried,12,5137737,1
+CUST000560,30,F,Single,0,Bachelor,Salaried,17,1514610,0
+CUST000561,37,F,Divorced,2,High School,Salaried,3,5498157,0
+CUST000562,55,M,Single,1,Bachelor,Freelancer,3,3659765,0
+CUST000563,43,M,Married,3,Bachelor,Business Owner,14,5131387,0
+CUST000564,31,M,Single,2,High School,Salaried,5,2423484,1
+CUST000565,47,F,Single,2,High School,Self-Employed,0,671091,1
+CUST000566,30,M,Married,1,Bachelor,Salaried,3,1789576,0
+CUST000567,21,F,Single,2,Bachelor,Salaried,1,5233927,1
+CUST000568,24,M,Married,1,Bachelor,Self-Employed,3,3673513,1
+CUST000569,21,F,Married,3,High School,Salaried,3,5230502,1
+CUST000570,31,M,Single,2,Bachelor,Freelancer,4,4335260,0
+CUST000571,35,F,Single,1,High School,Self-Employed,2,1163139,0
+CUST000572,51,M,Married,1,Bachelor,Salaried,0,1872444,0
+CUST000573,38,M,Married,0,High School,Self-Employed,3,2459250,0
+CUST000574,32,M,Married,2,High School,Salaried,8,452930,0
+CUST000575,43,F,Married,1,High School,Salaried,5,7383322,0
+CUST000576,21,M,Married,2,High School,Salaried,2,3117517,0
+CUST000577,37,F,Married,1,High School,Salaried,13,5401834,1
+CUST000578,42,F,Married,2,High School,Self-Employed,12,756835,0
+CUST000579,21,M,Married,3,Bachelor,Salaried,1,7812187,0
+CUST000580,46,M,Single,2,Bachelor,Self-Employed,0,15588581,0
+CUST000581,38,M,Married,2,High School,Salaried,6,907736,0
+CUST000582,30,F,Married,0,Master,Salaried,8,8414326,0
+CUST000583,41,M,Married,0,High School,Business Owner,17,2290090,0
+CUST000584,57,F,Married,2,Bachelor,Salaried,11,1108919,0
+CUST000585,36,F,Married,1,High School,Salaried,4,3231134,0
+CUST000586,37,M,Divorced,1,High School,Salaried,3,4101433,0
+CUST000587,30,M,Divorced,0,Bachelor,Salaried,0,2146204,0
+CUST000588,26,M,Married,1,Bachelor,Salaried,1,7393720,1
+CUST000589,43,M,Married,0,Master,Self-Employed,3,1526869,0
+CUST000590,26,M,Married,3,Bachelor,Salaried,4,1148159,0
+CUST000591,35,M,Married,1,PhD,Salaried,4,7194052,0
+CUST000592,30,F,Married,2,High School,Freelancer,6,2329337,0
+CUST000593,39,F,Married,0,High School,Salaried,1,1385710,0
+CUST000594,38,F,Married,2,High School,Business Owner,4,4033080,0
+CUST000595,45,M,Married,1,High School,Salaried,0,3318259,1
+CUST000596,29,F,Single,3,Bachelor,Salaried,2,5960693,0
+CUST000597,32,F,Married,3,Bachelor,Business Owner,6,2999045,0
+CUST000598,25,F,Single,1,High School,Salaried,5,3489019,1
+CUST000599,30,F,Divorced,3,Master,Self-Employed,23,3589450,2
+CUST000600,38,F,Married,4,Master,Salaried,1,20648188,0
+CUST000601,42,M,Single,3,High School,Salaried,3,1295675,0
+CUST000602,25,M,Single,3,High School,Salaried,1,9989381,0
+CUST000603,43,F,Married,1,High School,Salaried,2,2344883,0
+CUST000604,48,F,Married,2,High School,Business Owner,9,873677,0
+CUST000605,39,F,Married,0,High School,Salaried,5,5962381,0
+CUST000606,53,M,Single,0,Bachelor,Freelancer,10,3570195,1
+CUST000607,27,M,Married,4,High School,Freelancer,1,4152046,0
+CUST000608,22,F,Married,1,High School,Salaried,10,5389828,0
+CUST000609,21,M,Married,2,PhD,Salaried,0,8283002,0
+CUST000610,49,M,Married,3,Bachelor,Business Owner,10,2159595,1
+CUST000611,41,F,Married,3,Master,Freelancer,1,9708034,0
+CUST000612,34,M,Single,4,High School,Salaried,1,2289522,1
+CUST000613,37,M,Widowed,1,High School,Salaried,3,3698454,0
+CUST000614,23,F,Married,0,Bachelor,Salaried,14,723885,0
+CUST000615,59,M,Married,1,High School,Self-Employed,0,3128962,0
+CUST000616,36,M,Single,0,High School,Salaried,2,1463461,0
+CUST000617,36,F,Married,0,Bachelor,Self-Employed,9,10400003,0
+CUST000618,42,M,Single,1,Bachelor,Salaried,2,5056378,0
+CUST000619,39,M,Married,2,Bachelor,Salaried,1,3866655,0
+CUST000620,37,F,Widowed,2,Bachelor,Salaried,2,4594713,1
+CUST000621,27,F,Married,1,Bachelor,Salaried,2,1625118,0
+CUST000622,39,F,Single,2,High School,Salaried,12,7128452,0
+CUST000623,53,M,Single,1,High School,Salaried,7,9223676,0
+CUST000624,48,F,Married,0,High School,Salaried,3,3012751,1
+CUST000625,50,M,Single,2,High School,Salaried,22,6966388,2
+CUST000626,29,F,Single,2,PhD,Salaried,3,4389576,0
+CUST000627,25,M,Married,2,Bachelor,Freelancer,0,1871069,0
+CUST000628,33,F,Married,0,Bachelor,Salaried,1,3364020,0
+CUST000629,35,F,Single,3,High School,Salaried,2,3102701,2
+CUST000630,45,F,Divorced,2,High School,Salaried,0,1736763,1
+CUST000631,21,F,Single,2,High School,Freelancer,14,3334264,0
+CUST000632,50,M,Widowed,2,High School,Salaried,7,2835695,0
+CUST000633,33,F,Married,3,High School,Self-Employed,1,1137689,0
+CUST000634,30,F,Divorced,2,Bachelor,Self-Employed,4,4700385,0
+CUST000635,24,M,Married,2,Bachelor,Self-Employed,6,5983221,1
+CUST000636,21,F,Married,4,Bachelor,Salaried,14,3685911,0
+CUST000637,43,M,Widowed,2,Bachelor,Self-Employed,10,7325365,0
+CUST000638,35,F,Single,1,Master,Salaried,3,2091270,1
+CUST000639,22,F,Widowed,2,High School,Salaried,7,3175228,1
+CUST000640,22,F,Married,1,High School,Self-Employed,4,1008655,0
+CUST000641,31,M,Married,1,High School,Salaried,4,1049125,1
+CUST000642,51,F,Married,2,Bachelor,Business Owner,0,2101891,0
+CUST000643,32,F,Married,3,PhD,Salaried,0,3381076,1
+CUST000644,21,F,Single,3,High School,Business Owner,3,1559268,1
+CUST000645,32,M,Married,1,Master,Salaried,1,4220904,0
+CUST000646,32,M,Married,2,Master,Salaried,0,8810662,1
+CUST000647,21,F,Married,1,High School,Salaried,6,1827598,1
+CUST000648,34,M,Married,4,High School,Freelancer,0,754180,0
+CUST000649,32,F,Married,4,Bachelor,Salaried,4,7261140,0
+CUST000650,41,F,Married,2,PhD,Salaried,3,3638870,1
+CUST000651,53,F,Single,3,High School,Salaried,17,2196159,0
+CUST000652,46,F,Single,2,Bachelor,Self-Employed,3,4468554,0
+CUST000653,32,F,Single,2,High School,Salaried,0,2631467,1
+CUST000654,23,F,Married,0,Bachelor,Salaried,4,7031605,1
+CUST000655,60,F,Single,1,Bachelor,Salaried,9,4571272,0
+CUST000656,35,M,Widowed,2,Bachelor,Salaried,28,1788849,0
+CUST000657,35,M,Married,2,Master,Salaried,2,22532259,0
+CUST000658,34,M,Married,1,Master,Salaried,1,5618068,0
+CUST000659,36,M,Married,3,Master,Self-Employed,11,4422991,0
+CUST000660,33,M,Single,0,High School,Salaried,1,4493186,1
+CUST000661,29,M,Married,2,Bachelor,Salaried,4,3892708,0
+CUST000662,29,M,Married,2,High School,Salaried,2,3026098,0
+CUST000663,34,F,Married,2,Bachelor,Freelancer,0,18709253,0
+CUST000664,29,F,Married,2,Bachelor,Freelancer,2,2696364,3
+CUST000665,27,F,Widowed,1,Bachelor,Business Owner,1,2617073,0
+CUST000666,36,F,Divorced,0,Bachelor,Salaried,5,3546972,0
+CUST000667,32,M,Married,2,PhD,Salaried,14,13841866,0
+CUST000668,50,M,Married,2,High School,Salaried,1,797112,0
+CUST000669,21,F,Married,0,Bachelor,Salaried,8,825802,0
+CUST000670,45,F,Single,2,High School,Salaried,0,1517149,0
+CUST000671,47,M,Married,1,High School,Self-Employed,3,729108,0
+CUST000672,21,F,Single,2,High School,Business Owner,0,1699667,0
+CUST000673,31,F,Married,3,Master,Business Owner,13,6970620,0
+CUST000674,31,F,Married,0,Master,Salaried,7,2628544,0
+CUST000675,21,F,Single,0,Master,Self-Employed,5,1806111,0
+CUST000676,27,M,Widowed,2,PhD,Salaried,8,6863190,0
+CUST000677,23,F,Divorced,2,High School,Salaried,5,4185368,0
+CUST000678,52,F,Married,2,High School,Self-Employed,17,698607,0
+CUST000679,44,M,Married,3,Bachelor,Salaried,6,5804608,1
+CUST000680,47,M,Divorced,3,Bachelor,Salaried,12,5792730,0
+CUST000681,42,F,Single,4,Bachelor,Salaried,3,6374776,0
+CUST000682,23,M,Married,2,High School,Self-Employed,0,5369584,0
+CUST000683,29,F,Single,1,Bachelor,Self-Employed,3,15270138,2
+CUST000684,39,F,Married,1,Bachelor,Salaried,0,2547786,1
+CUST000685,22,M,Single,0,High School,Business Owner,4,2470731,0
+CUST000686,42,F,Divorced,2,Bachelor,Salaried,3,2442403,0
+CUST000687,32,F,Divorced,1,Bachelor,Salaried,4,3273544,0
+CUST000688,31,F,Single,3,Bachelor,Self-Employed,0,9559168,0
+CUST000689,42,F,Married,2,High School,Self-Employed,1,892529,0
+CUST000690,39,M,Widowed,2,Bachelor,Freelancer,3,1789175,1
+CUST000691,31,M,Married,1,High School,Salaried,15,6000489,0
+CUST000692,46,F,Divorced,0,High School,Self-Employed,2,4673181,1
+CUST000693,24,M,Married,0,Bachelor,Self-Employed,2,2535262,0
+CUST000694,41,F,Married,1,Bachelor,Freelancer,6,5945120,1
+CUST000695,40,F,Single,0,High School,Salaried,4,2905674,1
+CUST000696,31,F,Single,2,Bachelor,Self-Employed,1,9343507,0
+CUST000697,38,F,Married,3,Bachelor,Salaried,2,3444043,0
+CUST000698,22,F,Married,3,Bachelor,Salaried,1,6702173,0
+CUST000699,44,M,Married,2,Bachelor,Salaried,16,20778063,0
+CUST000700,33,F,Married,1,Bachelor,Salaried,0,4968703,0
+CUST000701,29,M,Married,3,Bachelor,Salaried,2,3383867,0
+CUST000702,45,M,Divorced,3,High School,Business Owner,0,3794403,0
+CUST000703,27,F,Widowed,0,High School,Salaried,1,1772015,2
+CUST000704,21,F,Married,2,Bachelor,Self-Employed,7,17392982,0
+CUST000705,21,F,Married,1,Bachelor,Salaried,1,3708172,2
+CUST000706,41,F,Married,3,Bachelor,Salaried,0,2700497,0
+CUST000707,22,F,Married,4,High School,Salaried,3,1274854,1
+CUST000708,52,M,Widowed,0,High School,Salaried,0,4932611,0
+CUST000709,21,F,Single,3,Bachelor,Salaried,0,5998567,0
+CUST000710,51,F,Single,2,High School,Salaried,8,1615534,1
+CUST000711,37,M,Divorced,4,Bachelor,Salaried,7,4893977,0
+CUST000712,34,M,Married,1,High School,Salaried,12,795984,1
+CUST000713,29,F,Married,3,Bachelor,Salaried,9,3720912,0
+CUST000714,38,M,Divorced,0,Master,Salaried,5,6732078,0
+CUST000715,34,F,Single,1,High School,Salaried,0,7560560,0
+CUST000716,46,M,Divorced,0,Bachelor,Freelancer,7,1905827,1
+CUST000717,36,M,Married,4,High School,Business Owner,9,935164,0
+CUST000718,36,F,Married,3,Bachelor,Self-Employed,8,1746632,1
+CUST000719,31,M,Married,3,Bachelor,Salaried,3,1282602,1
+CUST000720,34,M,Divorced,3,Bachelor,Self-Employed,1,8332383,0
+CUST000721,38,M,Single,0,Bachelor,Business Owner,9,9665249,0
+CUST000722,21,M,Married,1,Master,Self-Employed,6,6135588,1
+CUST000723,21,M,Married,0,High School,Salaried,19,5380174,0
+CUST000724,42,M,Married,1,High School,Self-Employed,0,2513271,0
+CUST000725,36,F,Married,1,Master,Business Owner,1,4587688,0
+CUST000726,33,F,Single,1,Bachelor,Salaried,1,2589236,0
+CUST000727,35,M,Single,1,Master,Self-Employed,7,3945913,0
+CUST000728,38,F,Married,0,Bachelor,Salaried,1,1106308,0
+CUST000729,29,F,Married,0,Master,Salaried,0,5899884,1
+CUST000730,27,F,Single,0,Bachelor,Salaried,30,3178011,0
+CUST000731,36,M,Single,4,Bachelor,Self-Employed,0,5508222,0
+CUST000732,25,F,Widowed,2,Master,Salaried,9,5235283,3
+CUST000733,39,M,Single,4,Bachelor,Salaried,2,2917120,1
+CUST000734,21,F,Widowed,1,High School,Salaried,9,1243561,1
+CUST000735,45,M,Married,1,High School,Salaried,4,2406856,0
+CUST000736,39,M,Married,2,High School,Salaried,11,3836576,1
+CUST000737,37,F,Single,1,High School,Self-Employed,13,1027857,0
+CUST000738,44,F,Single,1,High School,Self-Employed,0,2432807,0
+CUST000739,51,M,Married,1,Bachelor,Salaried,0,3848253,0
+CUST000740,45,F,Married,0,Bachelor,Salaried,1,1977521,0
+CUST000741,21,F,Married,1,Bachelor,Salaried,5,2166233,1
+CUST000742,22,F,Single,1,Bachelor,Business Owner,10,3841707,0
+CUST000743,28,M,Married,2,High School,Salaried,3,1035018,1
+CUST000744,35,M,Married,0,High School,Salaried,4,2923440,1
+CUST000745,40,F,Married,1,High School,Salaried,1,1222705,0
+CUST000746,27,F,Married,3,Bachelor,Self-Employed,8,6879094,0
+CUST000747,36,F,Married,0,High School,Business Owner,17,11755179,0
+CUST000748,27,M,Married,1,High School,Business Owner,1,1252678,0
+CUST000749,28,M,Single,3,Bachelor,Self-Employed,3,4751379,0
+CUST000750,21,F,Married,0,Master,Salaried,0,2948319,3
+CUST000751,25,F,Single,0,High School,Salaried,4,4742110,0
+CUST000752,21,F,Married,1,Bachelor,Salaried,3,1348251,0
+CUST000753,25,F,Married,1,Bachelor,Salaried,0,4576342,1
+CUST000754,45,F,Single,2,Bachelor,Salaried,2,1774284,0
+CUST000755,25,F,Married,3,Master,Salaried,2,4242129,1
+CUST000756,61,M,Single,0,High School,Salaried,3,1111929,0
+CUST000757,39,F,Married,2,High School,Freelancer,4,4069253,0
+CUST000758,36,M,Divorced,2,Master,Self-Employed,0,2729362,0
+CUST000759,26,F,Single,0,Bachelor,Business Owner,7,4810804,0
+CUST000760,42,F,Widowed,2,Bachelor,Self-Employed,6,2569267,0
+CUST000761,29,M,Married,1,Bachelor,Salaried,2,3017289,1
+CUST000762,36,M,Single,1,Bachelor,Self-Employed,0,3625233,0
+CUST000763,60,M,Single,0,Master,Salaried,7,2876796,2
+CUST000764,34,M,Married,1,PhD,Self-Employed,15,7575304,0
+CUST000765,46,F,Married,1,Bachelor,Salaried,1,9542195,0
+CUST000766,27,M,Married,3,High School,Freelancer,1,1327301,0
+CUST000767,34,F,Single,0,Master,Salaried,1,11136429,2
+CUST000768,52,M,Single,1,High School,Salaried,4,6530495,0
+CUST000769,28,F,Married,1,High School,Freelancer,0,1292406,0
+CUST000770,53,F,Single,2,Master,Salaried,2,1770772,1
+CUST000771,42,F,Single,2,High School,Self-Employed,5,2826917,0
+CUST000772,29,F,Single,2,High School,Self-Employed,4,1559911,1
+CUST000773,41,F,Married,2,High School,Business Owner,2,8464125,0
+CUST000774,44,F,Divorced,3,Master,Freelancer,2,5024469,1
+CUST000775,41,M,Married,1,Bachelor,Freelancer,4,1864419,2
+CUST000776,21,F,Divorced,2,Bachelor,Salaried,0,1464447,1
+CUST000777,27,M,Married,3,High School,Business Owner,0,4907417,0
+CUST000778,32,M,Married,4,Bachelor,Self-Employed,10,2191663,0
+CUST000779,34,F,Single,3,Bachelor,Self-Employed,0,3370865,2
+CUST000780,41,M,Married,1,High School,Salaried,6,4467711,0
+CUST000781,36,F,Widowed,0,Bachelor,Self-Employed,12,2329162,0
+CUST000782,21,M,Married,1,High School,Freelancer,1,2215912,1
+CUST000783,38,F,Married,2,PhD,Freelancer,2,6462644,0
+CUST000784,41,M,Married,1,Bachelor,Salaried,4,5274145,0
+CUST000785,40,F,Single,1,Master,Salaried,10,7414782,0
+CUST000786,45,F,Divorced,3,High School,Salaried,14,1961549,0
+CUST000787,43,F,Married,1,Bachelor,Business Owner,6,3417959,0
+CUST000788,39,F,Married,3,Bachelor,Self-Employed,0,2519962,1
+CUST000789,34,M,Married,1,Bachelor,Salaried,5,1162021,0
+CUST000790,21,F,Married,1,PhD,Salaried,2,7829958,1
+CUST000791,39,M,Single,1,High School,Salaried,3,8605045,1
+CUST000792,37,M,Married,2,High School,Salaried,0,1232704,1
+CUST000793,37,M,Single,0,Bachelor,Freelancer,1,1902880,0
+CUST000794,22,F,Married,0,Bachelor,Self-Employed,7,1777094,1
+CUST000795,24,M,Married,4,Bachelor,Salaried,3,5428721,0
+CUST000796,45,M,Married,0,High School,Salaried,1,3132258,0
+CUST000797,34,M,Married,2,Bachelor,Salaried,2,2925639,1
+CUST000798,41,F,Married,2,High School,Freelancer,9,1203460,0
+CUST000799,35,F,Single,1,Bachelor,Salaried,6,3487388,2
+CUST000800,35,M,Married,2,Bachelor,Salaried,1,1093358,0
+CUST000801,44,F,Single,1,Bachelor,Salaried,0,3614263,1
+CUST000802,29,F,Married,2,High School,Self-Employed,1,4211763,0
+CUST000803,35,M,Single,1,Bachelor,Self-Employed,12,1361585,2
+CUST000804,30,M,Single,2,High School,Self-Employed,4,782744,0
+CUST000805,30,F,Married,0,High School,Salaried,3,6913119,0
+CUST000806,31,M,Single,2,Bachelor,Salaried,4,2130289,0
+CUST000807,37,F,Married,0,Master,Salaried,2,10860343,0
+CUST000808,30,F,Married,1,High School,Self-Employed,8,2054465,0
+CUST000809,47,F,Single,1,Bachelor,Salaried,3,2918649,0
+CUST000810,26,F,Married,0,Master,Salaried,0,6664822,0
+CUST000811,33,F,Single,3,Master,Business Owner,0,2640993,0
+CUST000812,30,F,Single,1,High School,Business Owner,3,2510701,0
+CUST000813,49,M,Married,3,PhD,Salaried,13,5005782,1
+CUST000814,36,M,Single,4,High School,Salaried,1,907981,1
+CUST000815,45,F,Married,2,High School,Salaried,10,2898089,1
+CUST000816,21,F,Single,0,High School,Self-Employed,7,1903127,1
+CUST000817,37,F,Single,1,Bachelor,Business Owner,1,2928739,0
+CUST000818,43,M,Married,2,High School,Salaried,0,980886,0
+CUST000819,35,F,Married,1,High School,Salaried,0,6971251,0
+CUST000820,45,M,Single,0,High School,Business Owner,6,4227092,1
+CUST000821,29,F,Married,2,Master,Business Owner,1,9629811,3
+CUST000822,49,F,Single,3,Master,Salaried,2,3959599,0
+CUST000823,57,M,Married,2,High School,Salaried,3,682075,0
+CUST000824,31,M,Married,0,Master,Salaried,6,19240101,0
+CUST000825,30,F,Married,2,Master,Salaried,0,4698231,0
+CUST000826,49,F,Divorced,1,Bachelor,Freelancer,2,1935430,0
+CUST000827,50,F,Married,1,High School,Business Owner,3,3063553,0
+CUST000828,29,M,Divorced,3,Bachelor,Self-Employed,3,7399955,2
+CUST000829,30,M,Married,1,Master,Salaried,8,4825039,0
+CUST000830,32,M,Widowed,1,Bachelor,Business Owner,0,8000404,2
+CUST000831,21,M,Single,0,High School,Salaried,8,4883755,1
+CUST000832,25,M,Married,3,Bachelor,Salaried,5,1538830,1
+CUST000833,24,M,Married,2,Bachelor,Salaried,4,2039768,1
+CUST000834,27,F,Married,2,Bachelor,Salaried,6,6390199,1
+CUST000835,34,F,Married,2,High School,Self-Employed,2,342660,1
+CUST000836,37,M,Married,0,High School,Salaried,0,2061008,1
+CUST000837,50,F,Single,1,Master,Salaried,5,1801054,0
+CUST000838,25,F,Single,1,Master,Salaried,3,3512635,3
+CUST000839,44,M,Married,0,High School,Salaried,5,1856402,1
+CUST000840,32,F,Married,1,PhD,Salaried,2,5087900,1
+CUST000841,34,M,Widowed,3,High School,Salaried,11,1554620,1
+CUST000842,41,M,Married,0,Bachelor,Business Owner,4,1516627,0
+CUST000843,23,F,Widowed,1,Bachelor,Salaried,0,16261938,0
+CUST000844,38,M,Married,1,Master,Salaried,2,18122928,0
+CUST000845,36,M,Single,1,Master,Salaried,7,2173867,0
+CUST000846,39,M,Single,3,High School,Business Owner,7,6926095,1
+CUST000847,37,M,Married,1,Master,Salaried,3,3707391,0
+CUST000848,59,M,Married,1,High School,Salaried,11,2504891,0
+CUST000849,28,M,Single,2,Bachelor,Salaried,1,3127386,0
+CUST000850,29,M,Married,0,Bachelor,Salaried,2,2059916,0
+CUST000851,28,M,Widowed,1,Bachelor,Salaried,11,6509001,1
+CUST000852,29,F,Married,1,High School,Self-Employed,11,2499110,1
+CUST000853,28,F,Married,2,Master,Self-Employed,5,3512641,0
+CUST000854,46,F,Married,4,High School,Salaried,9,918146,0
+CUST000855,49,M,Single,2,High School,Self-Employed,0,1224212,0
+CUST000856,29,M,Married,1,Bachelor,Self-Employed,10,1036161,0
+CUST000857,26,F,Married,3,Bachelor,Salaried,1,3297108,0
+CUST000858,39,F,Single,0,Master,Salaried,0,2121850,3
+CUST000859,29,F,Married,0,High School,Salaried,1,1900128,0
+CUST000860,41,M,Married,1,High School,Salaried,2,5970828,0
+CUST000861,37,F,Married,1,Master,Self-Employed,1,11352798,0
+CUST000862,21,F,Divorced,2,Bachelor,Business Owner,1,3195985,1
+CUST000863,50,M,Single,2,High School,Freelancer,0,2152984,1
+CUST000864,52,F,Married,3,Bachelor,Self-Employed,1,12187387,1
+CUST000865,28,M,Married,2,Bachelor,Salaried,4,4706849,0
+CUST000866,31,M,Divorced,2,Bachelor,Salaried,2,2598735,1
+CUST000867,37,M,Single,0,Bachelor,Business Owner,2,1204755,0
+CUST000868,38,F,Married,0,Master,Salaried,6,6460234,0
+CUST000869,41,F,Married,2,Master,Self-Employed,11,8762499,0
+CUST000870,55,M,Single,1,Bachelor,Self-Employed,7,2100831,0
+CUST000871,33,F,Single,3,High School,Self-Employed,2,2805709,1
+CUST000872,27,F,Married,0,Master,Business Owner,6,3801718,2
+CUST000873,21,F,Married,0,Bachelor,Salaried,0,2873890,0
+CUST000874,27,F,Married,1,Bachelor,Self-Employed,0,572933,1
+CUST000875,34,M,Married,1,High School,Business Owner,2,1959260,1
+CUST000876,52,F,Married,0,Master,Salaried,8,9665017,2
+CUST000877,29,M,Married,2,Bachelor,Self-Employed,1,2101197,0
+CUST000878,37,M,Single,0,High School,Salaried,0,2374015,0
+CUST000879,34,F,Divorced,2,Bachelor,Freelancer,0,1925766,0
+CUST000880,46,M,Single,1,Master,Salaried,9,6310807,1
+CUST000881,60,F,Married,0,High School,Salaried,5,1966485,0
+CUST000882,29,F,Single,1,PhD,Salaried,1,3387754,0
+CUST000883,30,M,Single,3,Bachelor,Self-Employed,4,8308469,0
+CUST000884,45,M,Married,1,Bachelor,Salaried,3,6263517,0
+CUST000885,41,M,Single,2,High School,Salaried,5,1498372,1
+CUST000886,53,M,Married,0,High School,Salaried,1,3242246,1
+CUST000887,40,F,Single,2,Master,Freelancer,9,7143072,1
+CUST000888,31,F,Married,1,High School,Salaried,1,3587391,1
+CUST000889,40,F,Married,2,Bachelor,Salaried,5,998511,0
+CUST000890,46,M,Single,2,High School,Self-Employed,0,4629454,0
+CUST000891,43,M,Single,3,High School,Salaried,2,1535759,0
+CUST000892,40,M,Married,1,High School,Freelancer,2,1781284,0
+CUST000893,45,F,Married,0,Bachelor,Salaried,3,20718078,0
+CUST000894,46,M,Married,0,PhD,Self-Employed,0,8076414,1
+CUST000895,48,F,Married,3,High School,Salaried,7,1746106,0
+CUST000896,41,M,Married,2,High School,Salaried,1,488756,1
+CUST000897,33,F,Single,2,High School,Self-Employed,5,6053576,0
+CUST000898,36,F,Married,1,Bachelor,Salaried,8,1274868,0
+CUST000899,47,M,Widowed,1,Bachelor,Self-Employed,4,1619442,0
+CUST000900,26,M,Married,0,Master,Salaried,6,3888439,0
+CUST000901,38,F,Married,4,Bachelor,Salaried,5,8810795,0
+CUST000902,31,F,Married,2,Bachelor,Salaried,2,5616773,0
+CUST000903,35,M,Married,3,High School,Freelancer,8,2048951,0
+CUST000904,47,M,Married,1,PhD,Salaried,1,8112782,0
+CUST000905,36,F,Married,2,High School,Salaried,4,1503121,0
+CUST000906,35,M,Widowed,2,High School,Salaried,6,2523311,1
+CUST000907,21,F,Single,1,Bachelor,Salaried,2,3441216,1
+CUST000908,42,F,Single,3,Bachelor,Salaried,1,6440642,0
+CUST000909,41,M,Married,3,Bachelor,Freelancer,3,6433470,1
+CUST000910,56,M,Married,3,Bachelor,Salaried,8,4619440,1
+CUST000911,31,M,Single,2,Bachelor,Business Owner,13,2536654,1
+CUST000912,37,M,Single,1,High School,Salaried,3,3846216,0
+CUST000913,37,M,Single,1,Master,Self-Employed,5,4597794,0
+CUST000914,50,F,Single,4,Bachelor,Freelancer,11,1532881,1
+CUST000915,34,F,Married,0,Bachelor,Salaried,0,2464990,0
+CUST000916,37,M,Married,2,Bachelor,Freelancer,1,3468278,2
+CUST000917,41,M,Married,2,High School,Salaried,6,4327393,1
+CUST000918,36,M,Married,2,Bachelor,Freelancer,8,2874905,0
+CUST000919,30,F,Single,4,Bachelor,Self-Employed,9,1402211,0
+CUST000920,36,M,Single,1,High School,Salaried,2,2381031,0
+CUST000921,45,M,Married,1,Bachelor,Salaried,0,3539228,0
+CUST000922,24,F,Widowed,0,PhD,Salaried,2,7446342,0
+CUST000923,36,F,Married,1,Bachelor,Salaried,1,6223917,0
+CUST000924,27,M,Single,1,Master,Salaried,1,10006158,0
+CUST000925,46,M,Divorced,1,High School,Salaried,7,1509633,0
+CUST000926,21,M,Married,3,High School,Salaried,0,1486632,2
+CUST000927,29,F,Married,3,High School,Self-Employed,8,1104812,0
+CUST000928,38,M,Married,0,Bachelor,Salaried,2,5331648,2
+CUST000929,50,M,Married,1,High School,Salaried,4,6309071,2
+CUST000930,34,M,Married,3,High School,Self-Employed,0,1835390,0
+CUST000931,29,F,Single,0,Master,Salaried,2,4141065,1
+CUST000932,53,F,Single,0,Master,Salaried,0,13690501,0
+CUST000933,21,M,Single,0,Bachelor,Salaried,16,4657039,1
+CUST000934,21,M,Married,2,High School,Freelancer,8,3105514,0
+CUST000935,39,F,Married,0,High School,Business Owner,3,994189,0
+CUST000936,29,F,Married,4,High School,Salaried,1,3680041,0
+CUST000937,24,F,Single,1,Bachelor,Self-Employed,13,1705902,0
+CUST000938,42,F,Widowed,2,Master,Salaried,2,2216967,0
+CUST000939,37,F,Divorced,1,Bachelor,Self-Employed,0,2564463,0
+CUST000940,29,F,Married,1,High School,Self-Employed,4,1518555,0
+CUST000941,22,F,Widowed,2,Bachelor,Self-Employed,14,2799300,0
+CUST000942,43,F,Married,2,High School,Salaried,0,834541,0
+CUST000943,41,F,Widowed,2,High School,Salaried,1,4477146,0
+CUST000944,34,M,Single,2,Bachelor,Salaried,13,7198479,0
+CUST000945,53,M,Married,3,Bachelor,Business Owner,0,836398,0
+CUST000946,24,M,Single,3,High School,Salaried,0,4539127,1
+CUST000947,21,F,Single,2,High School,Business Owner,4,1297506,0
+CUST000948,28,M,Single,0,PhD,Freelancer,9,11911680,1
+CUST000949,34,F,Married,0,High School,Salaried,3,2181258,0
+CUST000950,37,F,Married,1,High School,Self-Employed,26,2334872,1
+CUST000951,32,M,Married,2,High School,Self-Employed,5,2010223,0
+CUST000952,38,F,Single,1,High School,Freelancer,0,5345766,0
+CUST000953,22,M,Married,1,High School,Freelancer,24,960887,0
+CUST000954,49,M,Married,3,Master,Self-Employed,2,7504048,0
+CUST000955,34,M,Married,3,High School,Salaried,1,4946823,0
+CUST000956,46,F,Married,3,Bachelor,Self-Employed,4,5397454,0
+CUST000957,38,M,Single,1,Bachelor,Salaried,1,16639488,3
+CUST000958,39,F,Married,2,Bachelor,Self-Employed,0,2257429,0
+CUST000959,40,M,Divorced,1,Master,Freelancer,0,9583740,0
+CUST000960,39,M,Single,0,Master,Salaried,2,4552566,1
+CUST000961,41,M,Married,0,High School,Self-Employed,9,5425980,0
+CUST000962,48,F,Divorced,1,Bachelor,Salaried,4,3251469,1
+CUST000963,36,F,Married,1,Bachelor,Salaried,30,2491727,0
+CUST000964,42,F,Single,3,PhD,Salaried,1,16311772,1
+CUST000965,34,M,Single,0,Bachelor,Self-Employed,1,2317284,0
+CUST000966,49,M,Single,2,PhD,Freelancer,0,2432034,1
+CUST000967,28,F,Married,2,Bachelor,Freelancer,0,2276630,1
+CUST000968,53,F,Married,1,High School,Salaried,1,3529433,0
+CUST000969,34,F,Single,1,Bachelor,Business Owner,7,8661748,0
+CUST000970,21,F,Widowed,1,PhD,Self-Employed,11,7066936,0
+CUST000971,36,F,Married,2,Master,Salaried,18,12338104,2
+CUST000972,28,F,Single,1,High School,Salaried,1,884345,0
+CUST000973,43,M,Married,0,Bachelor,Salaried,10,2396968,0
+CUST000974,28,F,Married,0,High School,Freelancer,1,1869762,0
+CUST000975,30,M,Single,2,High School,Self-Employed,0,2111973,0
+CUST000976,21,M,Single,3,Bachelor,Self-Employed,10,3467228,0
+CUST000977,30,F,Married,1,High School,Salaried,5,3711559,2
+CUST000978,21,F,Married,2,Master,Self-Employed,0,3591570,0
+CUST000979,21,M,Married,2,High School,Salaried,2,2522207,1
+CUST000980,42,F,Married,3,Master,Salaried,1,4751062,0
+CUST000981,42,F,Single,3,High School,Self-Employed,6,1196848,0
+CUST000982,39,M,Single,2,High School,Salaried,3,2113293,0
+CUST000983,25,M,Married,2,High School,Business Owner,22,2069387,0
+CUST000984,34,M,Single,3,High School,Salaried,0,2038588,2
+CUST000985,34,F,Single,1,High School,Self-Employed,2,2339754,1
+CUST000986,23,M,Married,1,High School,Salaried,3,2412795,0
+CUST000987,50,F,Widowed,0,Bachelor,Salaried,3,2415443,0
+CUST000988,43,M,Married,3,High School,Salaried,1,5577355,0
+CUST000989,32,M,Divorced,3,Bachelor,Salaried,6,1441743,2
+CUST000990,35,M,Single,0,High School,Freelancer,10,1381452,1
+CUST000991,37,F,Widowed,2,Master,Salaried,13,34326892,1
+CUST000992,21,F,Single,1,Master,Business Owner,8,2371114,0
+CUST000993,32,M,Widowed,0,Bachelor,Freelancer,9,1267265,0
+CUST000994,28,M,Widowed,4,High School,Salaried,3,3826490,0
+CUST000995,24,M,Married,1,High School,Salaried,8,534635,0
+CUST000996,32,F,Widowed,0,PhD,Self-Employed,1,5545266,0
+CUST000997,52,M,Married,2,High School,Freelancer,2,10276830,0
+CUST000998,41,F,Single,2,High School,Freelancer,1,775970,0
+CUST000999,29,M,Married,0,High School,Salaried,3,571459,1
+CUST001000,40,M,Married,2,High School,Self-Employed,1,801225,1
